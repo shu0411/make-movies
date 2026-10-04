@@ -1,0 +1,8 @@
+build
+dist
+coverage
+out
+playwright-report
+test-results
+node_modules
+package-lock.json
